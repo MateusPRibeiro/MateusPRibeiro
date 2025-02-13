@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Olá, eu sou Mateus Pontes!  
 
-<!--
-**MateusPRibeiro/MateusPRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Formado em Engenharia da Computação** e atualmente aprimorando minhas habilidades na área de **dados**.  
+🚀 Busco desafios e projetos que me permitam explorar, analisar e transformar dados em insights valiosos.  
 
-Here are some ideas to get you started:
+## 📚 Cursos em andamento  
+- 📌 **Conhecendo SQL** – Alura  
+- 📌 **Análise de Dados com SQL** – DataCamp  
+- 📌 **Análise de Dados com Power BI** – DataCamp  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas  
+🔹 **Linguagens**: Python, SQL  
+🔹 **Banco de Dados**: MySQL, PostgreSQL  
+🔹 **Visualização de Dados**: Power BI
